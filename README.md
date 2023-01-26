@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @soborokunw
-- I am making Soborosystem, MixederGroup.
-- 
-- Contact: admin@mixeder.net
-- (●'◡'●)
-- https://mixeder.net
-- ![Soborosystem (1)](https://user-images.githubusercontent.com/108273108/186169989-398b4680-d0f3-4596-8ac3-9e86449b9606.png)
+
